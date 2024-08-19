@@ -1,9 +1,7 @@
 # CV Project
 
 ![image](https://github.com/user-attachments/assets/829d8fe7-99d9-4428-8b97-89071f87d100)
-***********************************************************************************************
-***********************************************************************************************
-***********************************************************************************************
+<br>
 ![image](https://github.com/user-attachments/assets/28900da7-1cf2-475c-8d2b-cc12b28c2a98)
 ![image](https://github.com/user-attachments/assets/a42f83fc-66bb-4806-8056-7e2106baa5d9)
 ![image](https://github.com/user-attachments/assets/b00278df-1719-4193-ab5d-543390aa7d9e)
